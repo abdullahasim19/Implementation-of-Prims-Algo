@@ -1,0 +1,29 @@
+Total vertices are: 7
+1 office1
+2 lab1
+3 lab4
+4 lab9
+5 lab10
+6 office2
+7 office6
+
+Edges are:
+First digit is starting vertex, second digit is ending vertex and third digit is weight.
+1 3 4 
+1 2 6 
+2 1 6 
+2 4 2 
+2 5 4 
+2 3 12 
+3 1 4 
+3 2 12 
+3 6 2 
+3 7 3 
+4 2 2 
+4 5 6 
+5 2 4 
+5 4 6 
+5 6 2 
+6 3 2 
+6 5 2 
+7 3 3 
